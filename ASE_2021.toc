@@ -1,7 +1,5 @@
-\beamer@sectionintoc {1}{구름 형성}{2}{0}{1}
-\beamer@sectionintoc {2}{구름 분류}{6}{0}{2}
-\beamer@sectionintoc {3}{안개의 유형}{16}{0}{3}
-\beamer@sectionintoc {4}{강수는 어떻게 형성되는가}{26}{0}{4}
-\beamer@sectionintoc {5}{강수의 형태}{34}{0}{5}
-\beamer@sectionintoc {6}{강수 측정}{44}{0}{6}
-\beamer@sectionintoc {7}{계획적 및 비의도적 기상조절}{50}{0}{7}
+\beamer@sectionintoc {1}{대기에 대한 포커스}{3}{0}{1}
+\beamer@sectionintoc {2}{과학적 탐구의 본성}{9}{0}{2}
+\beamer@sectionintoc {3}{시스템으로서의 지구}{13}{0}{3}
+\beamer@sectionintoc {4}{대기의 구성}{20}{0}{4}
+\beamer@sectionintoc {5}{대기의 연직 구조}{38}{0}{5}

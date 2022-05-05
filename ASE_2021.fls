@@ -1780,9 +1780,9 @@ INPUT c:/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref.sty
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/ASE_2021.aux
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/ASE_2021.aux
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/ASE_2021.aux
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/sub/chap-05.aux
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/sub/chap-05.aux
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/sub/chap-05.aux
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/sub/chap-01.aux
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/sub/chap-01.aux
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/sub/chap-01.aux
 OUTPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/ASE_2021.aux
 INPUT c:/texlive/2021/texmf-dist/tex/latex/nanumtype1/lucnanummj.fd
 INPUT c:/texlive/2021/texmf-dist/tex/latex/nanumtype1/lucnanummj.fd
@@ -1941,20 +1941,20 @@ INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmtt8.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmtt8.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmss10.tfm
-INPUT ./sub/chap-05.tex
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/sub/chap-05.tex
-INPUT ./sub/chap-05.tex
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/sub/chap-05.tex
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/sub/chap-05.tex
-OUTPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/sub/chap-05.aux
-INPUT ./sub/chap-05.tex
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/sub/chap-05.tex
-INPUT ./sub/chap-05.tex
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/sub/chap-05.tex
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/sub/chap-05.tex
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/sub/chap-05.tex
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/sub/chap-05.tex
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/sub/chap-05.tex
+INPUT ./sub/chap-01.tex
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/sub/chap-01.tex
+INPUT ./sub/chap-01.tex
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/sub/chap-01.tex
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/sub/chap-01.tex
+OUTPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/sub/chap-01.aux
+INPUT ./sub/chap-01.tex
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/sub/chap-01.tex
+INPUT ./sub/chap-01.tex
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/sub/chap-01.tex
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/sub/chap-01.tex
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/sub/chap-01.tex
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/sub/chap-01.tex
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/sub/chap-01.tex
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_logo_pdf.pdf
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_logo_pdf.pdf
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_logo_pdf.pdf
@@ -1965,12 +1965,12 @@ INPUT c:/texlive/2021/texmf-dist/tex/latex/nanumtype1/lucnanumgt.fd
 INPUT c:/texlive/2021/texmf-dist/tex/latex/nanumtype1/lucnanumgt.fd
 INPUT c:/texlive/2021/texmf-dist/tex/latex/nanumtype1/lucnanumgt.fd
 INPUT c:/texlive/2021/texmf-dist/tex/latex/nanumtype1/lucnanumgt.fd
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtbc7.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtbb3.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtbae.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtbc5.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtbd5.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtbc1.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtbac.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtbbc.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtbc2.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtbd6.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtbd0.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmssbx10.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtbc8.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtbc7.tfm
@@ -1992,54 +1992,6 @@ INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtbae.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtbb4.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtbb1.tfm
 INPUT c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/ASE_2021.toc
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/ASE_2021.toc
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/ASE_2021.toc
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmad.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb9.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmd6.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc1.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmbd.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc5.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmac.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc7.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc2.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb2.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb5.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb4.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmd0.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmce.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc8.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmbc.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmbe.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb3.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmae.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc0.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmad.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb9.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmd6.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc1.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmbd.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc5.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmac.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc7.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc2.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb2.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb5.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb4.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmd0.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmce.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc8.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmbc.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmbe.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb3.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmae.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc0.tfm
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
@@ -2053,65 +2005,74 @@ INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./images/Surface_t1.jpg
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./images/Surface_t1.jpg
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./images/Surface_t1.jpg
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./images/Surface_t1.jpg
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc7.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmbb.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmbc.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc6.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmac.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc7.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmd4.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmba.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmd7.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc5.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc8.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc9.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc1.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb5.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb2.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmd5.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmbd.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc2.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb4.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb8.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb0.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmss9.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmssbx10.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmd2.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb0.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc7.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmba.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc9.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc6.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb9.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmca.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmad.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmd5.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc5.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc6.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmae.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmac.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc1.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc0.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb3.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc2.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb2.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmbb.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmbc.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb4.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmad.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb7.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb7.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmd6.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc0.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmae.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmd6.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmd3.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmcd.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc8.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmaf.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb4.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb3.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmcc.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmbc.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc2.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc8.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmba.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb8.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc0.tfm
+INPUT c:/texlive/2021/texmf-dist/tex/latex/doclicense/images/doclicense-CC-by-nc-sa-88x31.pdf
+INPUT c:/texlive/2021/texmf-dist/tex/latex/doclicense/images/doclicense-CC-by-nc-sa-88x31.pdf
+INPUT c:/texlive/2021/texmf-dist/tex/latex/doclicense/images/doclicense-CC-by-nc-sa-88x31.pdf
+INPUT c:/texlive/2021/texmf-dist/tex/latex/doclicense/images/doclicense-CC-by-nc-sa-88x31.pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/ASE_2021.toc
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/ASE_2021.toc
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/ASE_2021.toc
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmd3.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmce.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmd0.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmd1.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc9.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb3.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmae.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc5.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmd5.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmd3.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmce.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc2.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmac.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc8.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmd0.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmad.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc7.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmbc.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc1.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmd1.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb8.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc9.tfm
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb0.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmbd.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmd6.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmbe.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
@@ -2119,45 +2080,10 @@ INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmtt12.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtbae.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtbd3.tfm
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./images/Kohler_curve.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./images/Kohler_curve.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./images/Kohler_curve.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./images/Kohler_curve.png
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb9.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmcf.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmbe.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmce.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmd7.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb8.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb5.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmad.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb1.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtbb7.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtbc1.tfm
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./images/colision.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./images/colision.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./images/colision.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./images/colision.png
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtbad.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtbb9.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtbc6.tfm
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/ASE_2021.toc
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/ASE_2021.toc
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/ASE_2021.toc
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtbc7.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtbbc.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtbc0.tfm
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
@@ -2166,17 +2092,7 @@ INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../re
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtbbd.tfm
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmd1.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb1.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb6.tfm
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
@@ -2187,38 +2103,92 @@ INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../re
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb5.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmcc.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmbf.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb7.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtbb0.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtbd6.tfm
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc5.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb7.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc8.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb9.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc7.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb8.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmbd.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmd1.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmad.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc9.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmbc.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc2.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb2.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmd5.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb0.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc6.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmce.tfm
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtbc6.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtbc2.tfm
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/ASE_2021.toc
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/ASE_2021.toc
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/ASE_2021.toc
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmcd.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtbc8.tfm
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb0.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc6.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc9.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmbb.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmd7.tfm
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmac.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc1.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb3.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmae.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc0.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmd4.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmd6.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb4.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmba.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb8.tfm
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtbc0.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb6.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb1.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmcc.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtbce.tfm
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmd2.tfm
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
@@ -2233,44 +2203,6 @@ INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./log
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtbd5.tfm
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtbc5.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtbb2.tfm
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtbb4.tfm
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/ASE_2021.toc
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/ASE_2021.toc
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/ASE_2021.toc
@@ -2278,28 +2210,48 @@ INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./log
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./images/clouds.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./images/clouds.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./images/clouds.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./images/clouds.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./images/clouds.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./images/fog.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./images/fog.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./images/fog.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./images/fog.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./images/fog.png
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmcc.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb1.tfm
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmss9.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmssbx10.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc9.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmad.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmbc.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb9.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc5.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmbe.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmd5.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb3.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmae.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc7.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb4.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb2.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb0.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc6.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmac.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmbb.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtm59.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtm51.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtm96.tfm
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
@@ -2309,26 +2261,8 @@ INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../re
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./images/upslope.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./images/upslope.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./images/upslope.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./images/upslope.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./images/upslope1.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./images/upslope1.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./images/upslope1.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./images/upslope1.png
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmd4.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtbbb.tfm
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
@@ -2338,51 +2272,10 @@ INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../re
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./images/frontal_fog.jpg
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./images/frontal_fog.jpg
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./images/frontal_fog.jpg
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./images/frontal_fog.jpg
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtbb6.tfm
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmbb.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmcd.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmd0.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmd3.tfm
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtbb3.tfm
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/ASE_2021.toc
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/ASE_2021.toc
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/ASE_2021.toc
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb5.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmbe.tfm
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
@@ -2392,29 +2285,170 @@ INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../re
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT c:/texlive/2021/texmf-dist/tex/latex/base/ts1cmss.fd
-INPUT c:/texlive/2021/texmf-dist/tex/latex/base/ts1cmss.fd
-INPUT c:/texlive/2021/texmf-dist/tex/latex/base/ts1cmss.fd
-INPUT c:/texlive/2021/texmf-dist/tex/latex/base/ts1cmss.fd
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/jknappen/ec/tcss0800.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmd7.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtbd1.tfm
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/ASE_2021.toc
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/ASE_2021.toc
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/ASE_2021.toc
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmd3.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmbd.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb7.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc0.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc2.tfm
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtm21.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtbcc.tfm
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtm21.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmd3.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmcc.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc8.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc1.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmba.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmd6.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb5.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmd7.tfm
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmd0.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmd7.tfm
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmaf.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtbb7.tfm
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb8.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmce.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtbd0.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtbb1.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtbb9.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtbbe.tfm
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex9.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmtt9.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb1.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmd1.tfm
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtbb8.tfm
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./images/e.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./images/e.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./images/e.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./images/e.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
@@ -2424,119 +2458,6 @@ INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./log
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtbcd.tfm
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmcd.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmbf.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc4.tfm
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/ASE_2021.toc
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/ASE_2021.toc
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/ASE_2021.toc
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmaf.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtbaf.tfm
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./images/66.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./images/66.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./images/66.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./images/66.png
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmce.tfm
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
@@ -2557,15 +2478,13 @@ INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../re
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmb6.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmd1.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmd4.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc4.tfm
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmbd.tfm
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmd2.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtbb5.tfm
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
@@ -2574,51 +2493,6 @@ INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../re
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./images/radar2.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./images/radar2.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./images/radar2.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./images/radar2.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./images/radar1.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./images/radar1.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./images/radar1.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./images/radar1.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/ASE_2021.toc
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/ASE_2021.toc
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/ASE_2021.toc
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmbf.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmc3.tfm
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtbbf.tfm
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
@@ -2640,12 +2514,97 @@ INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../re
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
-INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtmca.tfm
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanumgtbba.tfm
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/./logo/gshs_blue.png
@@ -2666,37 +2625,38 @@ INPUT c:/texlive/2021/texmf-dist/tex/generic/stringenc/se-utf8.def
 INPUT c:/texlive/2021/texmf-dist/tex/generic/stringenc/se-utf8.def
 INPUT c:/texlive/2021/texmf-dist/tex/generic/stringenc/se-utf8.def
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/ASE_2021.aux
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/sub/chap-05.aux
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/sub/chap-05.aux
-INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/sub/chap-05.aux
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/sub/chap-01.aux
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/sub/chap-01.aux
+INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/sub/chap-01.aux
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/ASE_2021.out
 INPUT j:/guitar79/KH_data/2021년/2021-G2.대기과학및실험/ASE-beamer/ASE_2021.out
-INPUT c:/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb
+INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb
 INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
+INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb
 INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb
 INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb
 INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb
 INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb
+INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb
 INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb
 INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtbac.pfb
 INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtbad.pfb
 INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtbae.pfb
-INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtbaf.pfb
+INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtbb0.pfb
 INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtbb1.pfb
-INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtbb2.pfb
 INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtbb3.pfb
 INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtbb4.pfb
-INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtbb6.pfb
+INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtbb5.pfb
 INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtbb7.pfb
 INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtbb8.pfb
 INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtbb9.pfb
+INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtbba.pfb
+INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtbbb.pfb
 INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtbbc.pfb
-INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtbbd.pfb
 INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtbbe.pfb
-INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtbbf.pfb
 INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtbc0.pfb
 INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtbc1.pfb
 INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtbc2.pfb
@@ -2705,12 +2665,16 @@ INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtbc6.pfb
 INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtbc7.pfb
 INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtbc8.pfb
 INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtbc9.pfb
-INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtbcd.pfb
+INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtbcc.pfb
 INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtbce.pfb
 INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtbd0.pfb
-INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtbd3.pfb
+INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtbd1.pfb
 INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtbd5.pfb
 INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtbd6.pfb
+INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtm21.pfb
+INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtm51.pfb
+INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtm59.pfb
+INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtm96.pfb
 INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmac.pfb
 INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmad.pfb
 INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmae.pfb
@@ -2734,8 +2698,6 @@ INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmbf.pfb
 INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmc0.pfb
 INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmc1.pfb
 INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmc2.pfb
-INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmc3.pfb
-INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmc4.pfb
 INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmc5.pfb
 INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmc6.pfb
 INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmc7.pfb
@@ -2745,7 +2707,6 @@ INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmca.pfb
 INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmcc.pfb
 INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmcd.pfb
 INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmce.pfb
-INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmcf.pfb
 INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmd0.pfb
 INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmd1.pfb
 INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmd2.pfb
@@ -2754,4 +2715,3 @@ INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmd4.pfb
 INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmd5.pfb
 INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmd6.pfb
 INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmd7.pfb
-INPUT c:/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss0800.pfb
