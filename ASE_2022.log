@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.11.12)  5 MAY 2022 21:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.11.12)  5 MAY 2022 23:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -942,7 +942,7 @@ Package csquotes Info: ... configuration file loaded successfully.
 File: csquotes.cfg 
 )) (/usr/share/texlive/texmf-dist/tex/latex/ccicons/ccicons.sty
 Package: ccicons 2017/10/30 v1.6 LaTeX support for Creative Commons icons
-) (/home/guitar79/Desktop/KBox/2022/G2.ASE/ASE-beamer/ASE_2022.aux (/home/guitar79/Desktop/KBox/2022/G2.ASE/ASE-beamer/sub/chap-{chapNo}.aux))
+) (/home/guitar79/Desktop/KBox/2022/G2.ASE/ASE-beamer/ASE_2022.aux (/home/guitar79/Desktop/KBox/2022/G2.ASE/ASE-beamer/sub/chap-11.aux))
 \openout1 = `ASE_2022.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 85.
@@ -1059,7 +1059,7 @@ File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
 ) (/usr/share/texlive/texmf-dist/tex/latex/upquote/upquote.sty
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verbatim
 ) (/home/guitar79/Desktop/KBox/2022/G2.ASE/ASE-beamer/ASE_2022.nav)
-<./logo/gshs_blue.png, id=13, 728.7225pt x 728.7225pt>
+<./logo/gshs_blue.png, id=33, 728.7225pt x 728.7225pt>
 File: ./logo/gshs_blue.png Graphic file (type png)
 <use ./logo/gshs_blue.png>
 Package pdftex.def Info: ./logo/gshs_blue.png  used on input line 85.
@@ -1072,43 +1072,673 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 85.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-\openout2 = `sub/chap-{chapNo}.aux'.
+\openout2 = `sub/chap-11.aux'.
+
+ (/home/guitar79/Desktop/KBox/2022/G2.ASE/ASE-beamer/sub/chap-11.tex
+
+pdfTeX warning: pdflatex (file /home/guitar79/Desktop/KBox/2022/G2.ASE/ASE-beamer/./logo/gshs_logo_pdf.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<./logo/gshs_logo_pdf.pdf, id=35, 973.08423pt x 973.08423pt>
+File: ./logo/gshs_logo_pdf.pdf Graphic file (type pdf)
+<use ./logo/gshs_logo_pdf.pdf>
+Package pdftex.def Info: ./logo/gshs_logo_pdf.pdf  used on input line 6.
+(pdftex.def)             Requested size: 113.81102pt x 113.8103pt.
+LaTeX Font Info:    Trying to load font information for LUC+nanumgt on input line 6.
+(/usr/share/texlive/texmf-dist/tex/latex/nanumtype1/lucnanumgt.fd
+File: lucnanumgt.fd 2013/02/12 v0.1 Nanum Gothic font definitions
+) [1.1
 
 
-No file sub/chap-{chapNo}.tex.
-\tf@nav=\write6
-\openout6 = `ASE_2022.nav'.
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/guitar79/Desktop/KBox/2022/G2.ASE/ASE-beamer/./logo/gshs_logo_pdf.pdf>] (/home/guitar79/Desktop/KBox/2022/G2.ASE/ASE-beamer/ASE_2022.toc)
+File: ./logo/gshs_blue.png Graphic file (type png)
+<use ./logo/gshs_blue.png>
+Package pdftex.def Info: ./logo/gshs_blue.png  used on input line 9.
+(pdftex.def)             Requested size: 22.76219pt x 22.7614pt.
+ [2.2
 
-\tf@toc=\write7
-\openout7 = `ASE_2022.toc'.
+ </home/guitar79/Desktop/KBox/2022/G2.ASE/ASE-beamer/./logo/gshs_blue.png>]
+<../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf, id=147, page=331, 681.50612pt x 797.86081pt>
+File: ../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf Graphic file (type pdf)
+<use ../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf, page 331>
+Package pdftex.def Info: ../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf , page331 used on input line 31.
+(pdftex.def)             Requested size: 229.07713pt x 122.95918pt.
 
-\tf@snm=\write8
-\openout8 = `ASE_2022.snm'.
+Overfull \hbox (4.91512pt too wide) in paragraph at lines 31--31
+[][]  
+ []
 
-(/usr/share/texlive/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
-File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
-) (/usr/share/texlive/texmf-dist/tex/generic/stringenc/se-utf8.def
-File: se-utf8.def 2019/11/29 v1.12 stringenc: UTF-8
-) (/home/guitar79/Desktop/KBox/2022/G2.ASE/ASE-beamer/ASE_2022.aux (/home/guitar79/Desktop/KBox/2022/G2.ASE/ASE-beamer/sub/chap-{chapNo}.aux))
-Package rerunfilecheck Info: File `ASE_2022.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
- ) 
-Here is how much of TeX's memory you used:
- 28498 strings out of 479304
- 573455 string characters out of 5869778
- 1037104 words of memory out of 5000000
- 44977 multiletter control sequences out of 15000+600000
- 410099 words of font info for 53 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 145i,13n,146p,902b,842s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-No pages of output.
+Overfull \hbox (45.0pt too wide) detected at line 31
+ [] 
+ []
 
-pdfTeX warning: pdflatex: dangling objects discarded, no output file produced.
 
-PDF statistics:
- 15 PDF objects out of 1000 (max. 8388607)
- 4 compressed objects within 1 object stream
- 0 named destinations out of 1000 (max. 500000)
- 52 words of extra memory for PDF output out of 10000 (max. 10000000)
+Overfull \hbox (6.52002pt too wide) in paragraph at lines 31--31
+[]|  [][][]  
+ []
 
+File: ./logo/gshs_blue.png Graphic file (type png)
+<use ./logo/gshs_blue.png>
+Package pdftex.def Info: ./logo/gshs_blue.png  used on input line 31.
+(pdftex.def)             Requested size: 22.76219pt x 22.7614pt.
+[3.3
+
+ </home/guitar79/Desktop/KBox/2022/G2.ASE/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf>]
+<../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf, id=410, page=332, 681.50612pt x 797.86081pt>
+File: ../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf Graphic file (type pdf)
+<use ../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf, page 332>
+Package pdftex.def Info: ../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf , page332 used on input line 47.
+(pdftex.def)             Requested size: 229.07713pt x 170.77818pt.
+
+Overfull \hbox (45.0pt too wide) detected at line 47
+ [] 
+ []
+
+
+Overfull \hbox (6.52002pt too wide) in paragraph at lines 47--47
+[]|  [][][]  
+ []
+
+File: ./logo/gshs_blue.png Graphic file (type png)
+<use ./logo/gshs_blue.png>
+Package pdftex.def Info: ./logo/gshs_blue.png  used on input line 47.
+(pdftex.def)             Requested size: 22.76219pt x 22.7614pt.
+[4.4
+
+ </home/guitar79/Desktop/KBox/2022/G2.ASE/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf>]
+File: ../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf Graphic file (type pdf)
+<use ../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf, page 331>
+Package pdftex.def Info: ../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf , page331 used on input line 70.
+(pdftex.def)             Requested size: 190.89568pt x 194.13318pt.
+
+Overfull \hbox (4.90929pt too wide) in paragraph at lines 70--70
+[][]  
+ []
+
+
+Overfull \hbox (45.0pt too wide) detected at line 70
+ [] 
+ []
+
+
+Overfull \hbox (6.52002pt too wide) in paragraph at lines 70--70
+[]|  [][][]  
+ []
+
+File: ./logo/gshs_blue.png Graphic file (type png)
+<use ./logo/gshs_blue.png>
+Package pdftex.def Info: ./logo/gshs_blue.png  used on input line 70.
+(pdftex.def)             Requested size: 22.76219pt x 22.7614pt.
+[5.5
+
+]
+<../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf, id=565, page=333, 681.50612pt x 797.86081pt>
+File: ../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf Graphic file (type pdf)
+<use ../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf, page 333>
+Package pdftex.def Info: ../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf , page333 used on input line 90.
+(pdftex.def)             Requested size: 114.53856pt x 209.05188pt.
+
+Overfull \hbox (45.0pt too wide) detected at line 90
+ [] 
+ []
+
+
+Overfull \hbox (6.52002pt too wide) in paragraph at lines 90--90
+[]|  [][][]  
+ []
+
+
+Overfull \vbox (6.06432pt too high) detected at line 90
+ []
+
+File: ./logo/gshs_blue.png Graphic file (type png)
+<use ./logo/gshs_blue.png>
+Package pdftex.def Info: ./logo/gshs_blue.png  used on input line 90.
+(pdftex.def)             Requested size: 22.76219pt x 22.7614pt.
+[6.6
+
+ </home/guitar79/Desktop/KBox/2022/G2.ASE/ASE-beamer/../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf>]
+File: ../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf Graphic file (type pdf)
+<use ../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf, page 331>
+Package pdftex.def Info: ../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf , page331 used on input line 108.
+(pdftex.def)             Requested size: 229.07713pt x 122.95918pt.
+
+Overfull \hbox (4.91512pt too wide) in paragraph at lines 108--108
+[][]  
+ []
+
+
+Overfull \hbox (45.0pt too wide) detected at line 108
+ [] 
+ []
+
+
+Overfull \hbox (6.52002pt too wide) in paragraph at lines 108--108
+[]|  [][][]  
+ []
+
+File: ./logo/gshs_blue.png Graphic file (type png)
+<use ./logo/gshs_blue.png>
+Package pdftex.def Info: ./logo/gshs_blue.png  used on input line 108.
+(pdftex.def)             Requested size: 22.76219pt x 22.7614pt.
+[7.7
+
+]
+File: ../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf Graphic file (type pdf)
+<use ../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf, page 331>
+Package pdftex.def Info: ../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf , page331 used on input line 126.
+(pdftex.def)             Requested size: 229.07713pt x 122.95918pt.
+
+Overfull \hbox (4.91512pt too wide) in paragraph at lines 126--126
+[][]  
+ []
+
+
+Overfull \hbox (45.0pt too wide) detected at line 126
+ [] 
+ []
+
+
+Overfull \hbox (6.52002pt too wide) in paragraph at lines 126--126
+[]|  [][][]  
+ []
+
+File: ./logo/gshs_blue.png Graphic file (type png)
+<use ./logo/gshs_blue.png>
+Package pdftex.def Info: ./logo/gshs_blue.png  used on input line 126.
+(pdftex.def)             Requested size: 22.76219pt x 22.7614pt.
+[8.8
+
+] (/home/guitar79/Desktop/KBox/2022/G2.ASE/ASE-beamer/ASE_2022.toc)
+File: ./logo/gshs_blue.png Graphic file (type png)
+<use ./logo/gshs_blue.png>
+Package pdftex.def Info: ./logo/gshs_blue.png  used on input line 129.
+(pdftex.def)             Requested size: 22.76219pt x 22.7614pt.
+ [9.9
+
+]
+File: ../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf Graphic file (type pdf)
+<use ../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf, page 331>
+Package pdftex.def Info: ../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf , page331 used on input line 147.
+(pdftex.def)             Requested size: 229.07713pt x 122.95918pt.
+
+Overfull \hbox (4.91512pt too wide) in paragraph at lines 147--147
+[][]  
+ []
+
+
+Overfull \hbox (45.0pt too wide) detected at line 147
+ [] 
+ []
+
+
+Overfull \hbox (6.52002pt too wide) in paragraph at lines 147--147
+[]|  [][][]  
+ []
+
+File: ./logo/gshs_blue.png Graphic file (type png)
+<use ./logo/gshs_blue.png>
+Package pdftex.def Info: ./logo/gshs_blue.png  used on input line 147.
+(pdftex.def)             Requested size: 22.76219pt x 22.7614pt.
+[10.10
+
+]
+File: ../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf Graphic file (type pdf)
+<use ../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf, page 331>
+Package pdftex.def Info: ../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf , page331 used on input line 166.
+(pdftex.def)             Requested size: 229.07713pt x 122.95918pt.
+
+Overfull \hbox (4.91512pt too wide) in paragraph at lines 166--166
+[][]  
+ []
+
+
+Overfull \hbox (45.0pt too wide) detected at line 166
+ [] 
+ []
+
+
+Overfull \hbox (6.52002pt too wide) in paragraph at lines 166--166
+[]|  [][][]  
+ []
+
+File: ./logo/gshs_blue.png Graphic file (type png)
+<use ./logo/gshs_blue.png>
+Package pdftex.def Info: ./logo/gshs_blue.png  used on input line 166.
+(pdftex.def)             Requested size: 22.76219pt x 22.7614pt.
+[11.11
+
+]
+File: ../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf Graphic file (type pdf)
+<use ../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf, page 331>
+Package pdftex.def Info: ../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf , page331 used on input line 182.
+(pdftex.def)             Requested size: 229.07713pt x 122.95918pt.
+
+Overfull \hbox (45.0pt too wide) detected at line 182
+ [] 
+ []
+
+
+Overfull \hbox (6.52002pt too wide) in paragraph at lines 182--182
+[]|  [][][]  
+ []
+
+File: ./logo/gshs_blue.png Graphic file (type png)
+<use ./logo/gshs_blue.png>
+Package pdftex.def Info: ./logo/gshs_blue.png  used on input line 182.
+(pdftex.def)             Requested size: 22.76219pt x 22.7614pt.
+[12.12
+
+]
+File: ../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf Graphic file (type pdf)
+<use ../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf, page 331>
+Package pdftex.def Info: ../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf , page331 used on input line 198.
+(pdftex.def)             Requested size: 229.07713pt x 122.95918pt.
+
+Overfull \hbox (45.0pt too wide) detected at line 198
+ [] 
+ []
+
+
+Overfull \hbox (6.52002pt too wide) in paragraph at lines 198--198
+[]|  [][][]  
+ []
+
+File: ./logo/gshs_blue.png Graphic file (type png)
+<use ./logo/gshs_blue.png>
+Package pdftex.def Info: ./logo/gshs_blue.png  used on input line 198.
+(pdftex.def)             Requested size: 22.76219pt x 22.7614pt.
+[13.13
+
+] (/home/guitar79/Desktop/KBox/2022/G2.ASE/ASE-beamer/ASE_2022.toc)
+File: ./logo/gshs_blue.png Graphic file (type png)
+<use ./logo/gshs_blue.png>
+Package pdftex.def Info: ./logo/gshs_blue.png  used on input line 201.
+(pdftex.def)             Requested size: 22.76219pt x 22.7614pt.
+ [14.14
+
+]
+File: ../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf Graphic file (type pdf)
+<use ../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf, page 331>
+Package pdftex.def Info: ../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf , page331 used on input line 216.
+(pdftex.def)             Requested size: 229.07713pt x 122.95918pt.
+
+Overfull \hbox (45.0pt too wide) detected at line 216
+ [] 
+ []
+
+
+Overfull \hbox (6.52002pt too wide) in paragraph at lines 216--216
+[]|  [][][]  
+ []
+
+File: ./logo/gshs_blue.png Graphic file (type png)
+<use ./logo/gshs_blue.png>
+Package pdftex.def Info: ./logo/gshs_blue.png  used on input line 216.
+(pdftex.def)             Requested size: 22.76219pt x 22.7614pt.
+[15.15
+
+]
+File: ../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf Graphic file (type pdf)
+<use ../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf, page 331>
+Package pdftex.def Info: ../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf , page331 used on input line 231.
+(pdftex.def)             Requested size: 229.07713pt x 122.95918pt.
+
+Overfull \hbox (45.0pt too wide) detected at line 231
+ [] 
+ []
+
+
+Overfull \hbox (6.52002pt too wide) in paragraph at lines 231--231
+[]|  [][][]  
+ []
+
+File: ./logo/gshs_blue.png Graphic file (type png)
+<use ./logo/gshs_blue.png>
+Package pdftex.def Info: ./logo/gshs_blue.png  used on input line 231.
+(pdftex.def)             Requested size: 22.76219pt x 22.7614pt.
+[16.16
+
+]
+File: ../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf Graphic file (type pdf)
+<use ../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf, page 331>
+Package pdftex.def Info: ../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf , page331 used on input line 247.
+(pdftex.def)             Requested size: 229.07713pt x 122.95918pt.
+
+Overfull \hbox (45.0pt too wide) detected at line 247
+ [] 
+ []
+
+
+Overfull \hbox (6.52002pt too wide) in paragraph at lines 247--247
+[]|  [][][]  
+ []
+
+File: ./logo/gshs_blue.png Graphic file (type png)
+<use ./logo/gshs_blue.png>
+Package pdftex.def Info: ./logo/gshs_blue.png  used on input line 247.
+(pdftex.def)             Requested size: 22.76219pt x 22.7614pt.
+[17.17
+
+]
+File: ../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf Graphic file (type pdf)
+<use ../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf, page 331>
+Package pdftex.def Info: ../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf , page331 used on input line 262.
+(pdftex.def)             Requested size: 229.07713pt x 122.95918pt.
+
+Overfull \hbox (45.0pt too wide) detected at line 262
+ [] 
+ []
+
+
+Overfull \hbox (6.52002pt too wide) in paragraph at lines 262--262
+[]|  [][][]  
+ []
+
+File: ./logo/gshs_blue.png Graphic file (type png)
+<use ./logo/gshs_blue.png>
+Package pdftex.def Info: ./logo/gshs_blue.png  used on input line 262.
+(pdftex.def)             Requested size: 22.76219pt x 22.7614pt.
+[18.18
+
+] (/home/guitar79/Desktop/KBox/2022/G2.ASE/ASE-beamer/ASE_2022.toc)
+File: ./logo/gshs_blue.png Graphic file (type png)
+<use ./logo/gshs_blue.png>
+Package pdftex.def Info: ./logo/gshs_blue.png  used on input line 266.
+(pdftex.def)             Requested size: 22.76219pt x 22.7614pt.
+ [19.19
+
+]
+File: ../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf Graphic file (type pdf)
+<use ../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf, page 331>
+Package pdftex.def Info: ../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf , page331 used on input line 281.
+(pdftex.def)             Requested size: 229.07713pt x 122.95918pt.
+
+Overfull \hbox (45.0pt too wide) detected at line 281
+ [] 
+ []
+
+
+Overfull \hbox (6.52002pt too wide) in paragraph at lines 281--281
+[]|  [][][]  
+ []
+
+File: ./logo/gshs_blue.png Graphic file (type png)
+<use ./logo/gshs_blue.png>
+Package pdftex.def Info: ./logo/gshs_blue.png  used on input line 281.
+(pdftex.def)             Requested size: 22.76219pt x 22.7614pt.
+[20.20
+
+]
+File: ../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf Graphic file (type pdf)
+<use ../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf, page 331>
+Package pdftex.def Info: ../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf , page331 used on input line 297.
+(pdftex.def)             Requested size: 229.07713pt x 122.95918pt.
+
+Overfull \hbox (45.0pt too wide) detected at line 297
+ [] 
+ []
+
+
+Overfull \hbox (6.52002pt too wide) in paragraph at lines 297--297
+[]|  [][][]  
+ []
+
+File: ./logo/gshs_blue.png Graphic file (type png)
+<use ./logo/gshs_blue.png>
+Package pdftex.def Info: ./logo/gshs_blue.png  used on input line 297.
+(pdftex.def)             Requested size: 22.76219pt x 22.7614pt.
+[21.21
+
+]
+File: ../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf Graphic file (type pdf)
+<use ../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf, page 331>
+Package pdftex.def Info: ../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf , page331 used on input line 313.
+(pdftex.def)             Requested size: 229.07713pt x 122.95918pt.
+
+Overfull \hbox (45.0pt too wide) detected at line 313
+ [] 
+ []
+
+
+Overfull \hbox (6.52002pt too wide) in paragraph at lines 313--313
+[]|  [][][]  
+ []
+
+File: ./logo/gshs_blue.png Graphic file (type png)
+<use ./logo/gshs_blue.png>
+Package pdftex.def Info: ./logo/gshs_blue.png  used on input line 313.
+(pdftex.def)             Requested size: 22.76219pt x 22.7614pt.
+[22.22
+
+]
+/home/guitar79/Desktop/KBox/2022/G2.ASE/ASE-beamer/sub/chap-11.tex:329: Missing number, treated as zero.
+<to be read again> 
+                   \def 
+l.329 \end{frame}
+                 
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+/home/guitar79/Desktop/KBox/2022/G2.ASE/ASE-beamer/sub/chap-11.tex:329: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \def 
+l.329 \end{frame}
+                 
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+/home/guitar79/Desktop/KBox/2022/G2.ASE/ASE-beamer/sub/chap-11.tex:329: Package calc Error: `\def ' invalid at this point.
+
+See the calc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.329 \end{frame}
+                 
+I expected to see one of: + - * / )
+
+/home/guitar79/Desktop/KBox/2022/G2.ASE/ASE-beamer/sub/chap-11.tex:329: Argument of \beamer@sortzeroread has an extra }.
+<inserted text> 
+                \par 
+l.329 \end{frame}
+                 
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+{\beamerx@\@centercr }
+/home/guitar79/Desktop/KBox/2022/G2.ASE/ASE-beamer/sub/chap-11.tex:329: Paragraph ended before \beamer@sortzeroread was complete.
+<to be read again> 
+                   \par 
+l.329 \end{frame}
+                 
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+/home/guitar79/Desktop/KBox/2022/G2.ASE/ASE-beamer/sub/chap-11.tex:329: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.329 \end{frame}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/home/guitar79/Desktop/KBox/2022/G2.ASE/ASE-beamer/sub/chap-11.tex:329: Missing number, treated as zero.
+<to be read again> 
+                   \def 
+l.329 \end{frame}
+                 
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+/home/guitar79/Desktop/KBox/2022/G2.ASE/ASE-beamer/sub/chap-11.tex:329: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \def 
+l.329 \end{frame}
+                 
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+/home/guitar79/Desktop/KBox/2022/G2.ASE/ASE-beamer/sub/chap-11.tex:329: Package calc Error: `\def ' invalid at this point.
+
+See the calc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.329 \end{frame}
+                 
+I expected to see one of: + - * / )
+
+/home/guitar79/Desktop/KBox/2022/G2.ASE/ASE-beamer/sub/chap-11.tex:329: Argument of \beamer@sortzeroread has an extra }.
+<inserted text> 
+                \par 
+l.329 \end{frame}
+                 
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+{\beamerx@\@centercr }
+/home/guitar79/Desktop/KBox/2022/G2.ASE/ASE-beamer/sub/chap-11.tex:329: Paragraph ended before \beamer@sortzeroread was complete.
+<to be read again> 
+                   \par 
+l.329 \end{frame}
+                 
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+/home/guitar79/Desktop/KBox/2022/G2.ASE/ASE-beamer/sub/chap-11.tex:329: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.329 \end{frame}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: ../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf Graphic file (type pdf)
+<use ../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf, page 331>
+Package pdftex.def Info: ../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf , page331 used on input line 329.
+(pdftex.def)             Requested size: 420.52948pt x 225.73514pt.
+
+Overfull \hbox (227.42505pt too wide) in paragraph at lines 329--329
+ []\OT1/cmss/m/n/8 textwidth![] 
+ []
+
+
+/home/guitar79/Desktop/KBox/2022/G2.ASE/ASE-beamer/sub/chap-11.tex:329: LaTeX Error: \begin{center} on input line 329 ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.329 \end{frame}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/home/guitar79/Desktop/KBox/2022/G2.ASE/ASE-beamer/sub/chap-11.tex:329: Extra }, or forgotten \endgroup.
+\endminipage ...pagefalse \color@endgroup \egroup 
+                                                  \expandafter \@iiiparbox \...
+l.329 \end{frame}
+                 
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+/home/guitar79/Desktop/KBox/2022/G2.ASE/ASE-beamer/sub/chap-11.tex:329: LaTeX Error: \begin{figure} on input line 329 ended by \end{minipage}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.329 \end{frame}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/home/guitar79/Desktop/KBox/2022/G2.ASE/ASE-beamer/sub/chap-11.tex:329: Misplaced alignment tab character &.
+\beamer@doifinframe ... {figure} \end {minipage} &
+                                                   \begin {minipage}[t]{0.35...
+l.329 \end{frame}
+                 
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/home/guitar79/Desktop/KBox/2022/G2.ASE/ASE-beamer/sub/chap-11.tex:329: Misplaced \crcr.
+\endarray ->\crcr 
+                  \egroup \egroup \@arrayright \gdef \@preamble {}
+l.329 \end{frame}
+                 
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/home/guitar79/Desktop/KBox/2022/G2.ASE/ASE-beamer/sub/chap-11.tex:329: Extra }, or forgotten \endgroup.
+\endarray ->\crcr \egroup 
+                          \egroup \@arrayright \gdef \@preamble {}
+l.329 \end{frame}
+                 
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+/home/guitar79/Desktop/KBox/2022/G2.ASE/ASE-beamer/sub/chap-11.tex:329: Extra }, or forgotten \endgroup.
+\endarray ->\crcr \egroup \egroup 
+                                  \@arrayright \gdef \@preamble {}
+l.329 \end{frame}
+                 
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+/home/guitar79/Desktop/KBox/2022/G2.ASE/ASE-beamer/sub/chap-11.tex:329: Extra }, or forgotten $.
+<recently read> \egroup 
+                        
+l.329 \en
