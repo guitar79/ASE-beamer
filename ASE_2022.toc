@@ -1,5 +1,5 @@
-\beamer@sectionintoc {1}{허리케인의 개요}{2}{0}{1}
-\beamer@sectionintoc {2}{허리케인의 생성과 소멸}{9}{0}{2}
-\beamer@sectionintoc {3}{허리케인의 피해}{14}{0}{3}
-\beamer@sectionintoc {4}{허리케인의 강도 추정}{19}{0}{4}
-\beamer@sectionintoc {5}{허리케인 탐지와 진로 분석}{24}{0}{5}
+\beamer@sectionintoc {1}{대기오염의 위협}{2}{0}{1}
+\beamer@sectionintoc {2}{대기오염의 근원과 형태}{9}{0}{2}
+\beamer@sectionintoc {3}{대기질의 경향}{42}{0}{3}
+\beamer@sectionintoc {4}{대기오염에 영향을 주는 기상학적 요소}{48}{0}{4}
+\beamer@sectionintoc {5}{산성비}{56}{0}{5}
