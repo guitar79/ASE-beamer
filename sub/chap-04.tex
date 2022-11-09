@@ -66,14 +66,14 @@
 
 \begin{frame}[t]{물의 특성}
 	\begin{tabular}{ll}
-		\begin{minipage}[t]{0.40\textwidth}
+		\begin{minipage}[t]{0.50\textwidth}
 			\begin{figure}[t]
 				\includegraphics[trim=40 400 290 50, clip, page=122, width=\textwidth]
 				{\bookfile}
 			\end{figure}
 		\end{minipage}	
 		&
-		\begin{minipage}[t]{0.55\textwidth} \scriptsize
+		\begin{minipage}[t]{0.45\textwidth} \scriptsize
 			\begin{itemize}
 				\item 지구 표면에서 대량으로 발견되는 유일한 액체
 				\item 한 상에서 다른 상(고체, 액체, 기체)으로 변환 가능함
@@ -168,13 +168,14 @@
 				\item 기상학자들은 대기 중의 수증기량을 표현하기 위해 여러 방법들을 사용
 			\end{itemize}
 			\questionset{달톤의 법칙을 설명하시오.}
-			\solutionset{기체들의 혼합물에 의한 전체 압력은 각 성분에 의한 분압의 합과 동일하다. \\
+			\solutionset{기체들의 혼합물에 의한 전체 압력은 각 성분에 의한 분압의 합과 동일하다. 
 				$${\displaystyle	{ 
 				p = p_{1}+p_{2}+\cdots + p_{k}=\sum_{1}^{k} p_{n}
-				}	}$$ \newline}
-		
-			\questionset{수증기압이란 무엇인가?}
-			\solutionset{전체 대기 압력에서 수증기가 기여한 압력을 수증기압(vapor pressure)라고 한다.}
+				}	}$$
+				 \newline}
+			\questionset{공기 중의 수증기량을 나타내는 네 가지는 무엇인가?}
+			\solutionset{(상대)습도, 절대 습도, 혼합비, 비습}
+
 		\end{minipage}
 	\end{tabular}
 \end{frame}
@@ -188,8 +189,10 @@
 			\begin{figure}{}
 				\includegraphics[trim=30 410 290 170, clip, page=126, width=0.95\textwidth]{\bookfile} 
 			\end{figure}
+			\questionset{수증기압이란 무엇인가?}
+			\solutionset{전체 대기 압력에서 수증기가 기여한 압력을 수증기압(vapor pressure)라고 한다.}
+
 			\begin{itemize}\scriptsize
-				\item 수증기압 : 전체 대기압력에서 수증기가  기여한 압력
 				\item 포화 : 증발 속도 = 응결 속도
 				\item 포화 수증기압: 포화되었을 때 수증기에 의해 가해진 압력
 			\end{itemize}
@@ -201,16 +204,86 @@
 			\end{figure}
 		\end{minipage}
 	\end{tabular}
+\end{frame}
+
+
+
+
+\begin{frame}[t]{기체 법칙}
+	\begin{tabular}{ll}
+		\begin{minipage}[t]{0.475\textwidth} \scriptsize 
+			대기 상태의 기본 변수는 부피, 압력, 온도이다.
+
+			부피는 주로 비부피(specific volume) 또는 밀도(density)로 나타낸다.
+
+				$$	{\displaystyle	{
+						\nu=\frac{\Delta V}{\Delta M}\left[L^3 M^{-1}\right] \\
+						\rho=\frac{\Delta M}{\Delta V}\left[M L^{-3}\right]			
+				}	}$$
+				
+			$\nu ~ \rho = 1$의 관계가 있다. 
+			
+			압력은 단위면적당 힘으로 정의되며, 
+
+				$$	{\displaystyle	{
+					p = \frac{\Delta F}{\Delta A}
+				}	}$$
+		\end{minipage}
+		&
+		\begin{minipage}[t]{0.475\textwidth} \scriptsize 
+		
 	
+		\end{minipage}
+	\end{tabular}
+\end{frame}
+
+
+
+
+\begin{frame}[t]{이상기체 상태방정식}
+	\begin{tabular}{l|l}
+		\begin{minipage}[t]{0.475\textwidth} \scriptsize 
+			온도 $T$와 압력 $p$ 에서 이상기체의 단위질량 당 부피인 비부피를 $\nu$라 하자.
+				그러면 보일의 법칙과 샤를의 법칙으로부터 보일-샤를의 법칙을 다음과 같이 나타낼 수 있다.
+				$$	{\displaystyle	{
+						p \nu(T,~p)=p_{0} \nu\left(T,~p_{0}\right),
+						\quad 
+						\frac{\nu \left(T,~p_{0}\right)}{T}=\frac{\nu \left(T_{0},~p_{0}\right)}{T_{0}}
+				}	}$$
+				$${\displaystyle	{
+						p \nu(T, ~p)=\frac{p_{0} \nu \left(T_{0}, ~p_{0}\right)}{T_{0}} T
+				}	}$$
+				비기체상수(specific gas constant) $R$을 이용하여 다음과 같이 쓸 수 있다.\\
+				$${\displaystyle	{
+						p \nu = R T
+				}	}$$
+				질량이 분자량 $M$과 같은 기체의 시료가 있다면 부피는 $V = M\nu$ 이다.\\
+				$${\displaystyle	{
+						pV= MR T 
+				}	}$$	
+		\end{minipage}
+		&
+		\begin{minipage}[t]{0.475\textwidth} \scriptsize 
+			경험 법칙인 아보가드로의 법칙은 동일한 압력과 온도에서 같은 부피 안에 같은 수의 분자수를 지니므로 $\bar R = MR$의 양은 모든 기체에서 상수가 되며 이를 보편기체상수라 한다.
+			$$ M R = \frac{pV}{T}, \quad p\nu= \frac{\bar {R}}{M} T $$
+			$$ \bar R = MR = 8.3144 \left(\rm J ~mol^{-1} K^{-1}\right) $$
+			
+			비기체상수(specific gas constant)는 보편기체상수를 기체의 분자량으로 나누어 구할 수있다. \\
+			$$R = \frac{\bar{R}}{M}$$
+			이상 기체 상태방정식은 아래와 같이 쓸 수도 있다.\\
+			$$p  =  \rho R T$$
+			
+		\end{minipage}
+	\end{tabular}
 \end{frame}
 
 
 
 
 \begin{frame}[t]{절대습도(absolute humidity)}
-	\begin{tabular}{ll}
+	\begin{tabular}{l|l}
 		\begin{minipage}[t]{0.475\textwidth} \scriptsize
-			혼합공기 $1 \rm{~m^3}$에 들어있는 수증기의 양을 $\rm{g}$으로 나타낸 것 \\
+			절대습도: 혼합공기 $1 \rm{~m^3}$에 들어있는 수증기의 양을 $\rm{g}$으로 나타낸 것 \\
 			$$ {\displaystyle	{
 				\text { 절대습도 }=\frac{\text { 수증기 질량 }(\mathrm{g})}{\text { 공기 부피 }\left(\mathrm{m}^{3}\right)} 
 			}	}$$
@@ -219,9 +292,9 @@
 			$$ {\displaystyle	{
 				e = {\rho} R T, \quad \rho = \frac{e}{R T}
 			}	} $$
-			와 같다. 수증기의 밀도($\rho_v$)는 
+			와 같다. 수증기의 밀도($\rho_w$)는 
 			$$ {\displaystyle	{
-					\rho_{v}=\frac{e}{R_v T}
+					\rho_{w}=\frac{e}{R_w T}
 				} 	} $$
 			$$ {\displaystyle	{
 				\begin{aligned}
@@ -252,11 +325,50 @@
 
 
 
+\begin{frame}[t]{공기의 평균 분자량}
+	\begin{tabular}{l|l}
+		\begin{minipage}[t]{0.475\textwidth} \scriptsize 
+			공기의 부피를 $V$, $n$ 번째 기체의 질량을 $m_n$ , 분자량을 $M_n$ 이라고 하자
+				$$	{\displaystyle	{
+						p_{n}=\frac{\bar{R}}{M_{n}} \frac{m_{n}}{V} T
+				} 	}	$$
+				달톤의 법칙을 적용하면 \\
+				$$	{\displaystyle	{
+					\begin{aligned}
+						p&=\sum p_{n}=\frac{\bar{R} T}{V} \sum \frac{m_{n}}{M_{n}}\\
+						p \nu &=\bar{R} T \frac{\sum \frac{m_{n}}{M_{n}}}{\sum m_{n}}\\
+						p \nu&=\frac{\bar{R}}{\bar{M}} T
+					\end{aligned}
+				}	}	$$
+
+				량은 다음과 같이 정의된다. \\
+				$$	{\displaystyle	{
+						\frac{1}{\bar{M}} \equiv \frac{\sum \frac{m_{n}}{M_{n}}}{\sum m_{n}}
+				}	}	$$
+			
+		\end{minipage}
+		&
+		\begin{minipage}[t]{0.475\textwidth} \scriptsize 
+			
+			혼합 기체인 공기의 평균 분자량은 질량 가중값을 사용하는 조화 평균으로 구할 수 있다.\\
+
+			계산된 건조 공기의 평균 분자량은 $28.966 \times 10^{-3} \rm{~kg~{mol}^{-1}}$ 이다. \\
+			건조 공기의 비기체상수는
+			$${\displaystyle	{
+					R = \frac{\bar{R}}{\bar{M}}=2.8704 \times 10^{2} \rm{~J~{kg}^{-1}~{K}^{-1}}
+			}	}$$
+			
+		\end{minipage}
+	\end{tabular}
+\end{frame}
+
+
+
 
 \begin{frame}[t]{혼합비와 비습}
 	\begin{tabular}{ll}
 		\begin{minipage}[t]{0.475\textwidth} \scriptsize
-			혼합비(Mixing Ratio) : 건조 공기 $1 \rm{~kg}$에 들어 있는 수증기의 양을 $ \rm{~g}$으로 나타낸 것
+			혼합비(Mixing Ratio): 건조 공기 $1 \rm{~kg}$에 들어 있는 수증기의 양을 $ \rm{~g}$으로 나타낸 것
 			\\
 			$$ {\displaystyle	{
 					\text { 혼합비 }=\frac{\text { 수증기 질량 }(\mathrm{g})}{\text { 건조 공기 질량 }(\mathrm{kg})} 
@@ -278,15 +390,16 @@
 		\end{minipage}	
 		&
 		\begin{minipage}[t]{0.475\textwidth} \scriptsize
-			비습(Specific Humidity) : 수증기와 혼합되어 있는  $1 \rm{~kg}$에 들어 있는 수증기의 양을 $ \rm{~g}$으로 나타낸 것 	\\
+			비습(Specific Humidity): 수증기와 혼합되어 있는  $1 \rm{~kg}$에 들어 있는 수증기의 양을 $ \rm{~g}$으로 나타낸 것 	\\
 			$$ {\displaystyle	{
 				\begin{aligned}
 					&\text { 비습 }=\frac{\text { 수증기 질량 }(\mathrm{g})}{\text { 습윤 공기 질량 }(\mathrm{kg})} \\
-					&S.H. = \frac{m_{w}}{m_{d}+m_{w}}=\frac{\rho_{w}}{\rho_{d}+\rho_{w}} = 622 \frac{e}{p}(\mathrm{g} / \mathrm{kg}) 
+					&S.H. = \frac{m_{w}}{m_{d}+m_{w}}=\frac{\rho_{w}}{\rho_{d}+\rho_{w}} = 622 \frac{~e~}{p}(\mathrm{g} / \mathrm{kg}) 
 				\end{aligned}
 			}		} 		$$	
 		\end{minipage}
-	\end{tabular}\end{frame}
+	\end{tabular}
+\end{frame}
 
 
 
@@ -361,9 +474,6 @@
 \section{상대습도와 노점온도}
 
 
-
-
-
 \begin{frame}[t]{상대습도와 이슬점}
 	\begin{tabular}{ll}
 		\begin{minipage}[t]{0.475\textwidth} \scriptsize
@@ -406,8 +516,10 @@
 			\end{figure}
 		\end{minipage}
 	\end{tabular}
-			\questionset{상대습도를 변화시키는 요인은 무엇인지 설명하시오}
-			\solutionset{1) 수증기의 유입이나 제거, 2) 온도변화}
+		
+		\questionset{상대습도를 변화시키는 요인은 무엇인지 설명하시오}
+		\solutionset{1) 수증기의 유입이나 제거, 2) 온도변화}
+
 \end{frame}
 
 
@@ -564,6 +676,181 @@
 
 
 
+
+\begin{frame}[t]{정적 비열과 정압 비열}
+	\begin{tabular}{l|l}
+		\begin{minipage}[t]{0.475\textwidth} \scriptsize
+			비열은 어떤 물질 $1 \rm{g}$의 온도를 $1 \rm{{^\circ}C}$ 올리는데 필요한 열량이다. \\
+			정적비열 ($C_v$): 부피를 일정하게 유지하면서 가열했을 때 물질이 나타내는 비열 \\
+			정압비열 ($C_p$): 압력을 일정하게 유지하면서 가열했을 때 물질이 나타내는 비열 \\
+			내부에너지 $U$는 사실상 온도와 부피의 함수이며 압력과는 무관하다. \\
+			따라서 $U \left(T, V\right)$로 나타낸다. \\
+			엔탈피는 온도와 압력에 관한 함수로 $H \left(T, P\right)$로 나타낼 수 있는데, 정의는 $H =  U + PV$ 이다.\\
+			정적 비열과 정압 비열을 각각 내부에너지와 엔탈피를 이용하여 표현하면 다음과 같다. \\
+			$${\displaystyle	{
+					C_{v}=\left(\frac{\partial U}{\partial T}\right)_{v}
+					\quad	C_{p}=\left(\frac{\partial H}{\partial T}\right)_{p}
+			}	}$$
+		\end{minipage}	
+		&
+		\begin{minipage}[t]{0.475\textwidth} \scriptsize
+			$${\displaystyle		{
+					\begin{aligned} 
+						C_{p} &=\left(\frac{\partial H}{\partial T}\right)_{p} =\left(\frac{\partial(U+P V)}{\partial T}\right)_{p} \\ &=\left(\frac{\partial U}{\partial T}\right)_{p}+P\left(\frac{\partial V}{\partial T}\right)_{p} \\ 
+						&=C_{v}+P\left(\frac{\partial\left(\frac{R T}{P}\right)}{\partial T}\right)_{p} =C_{v}+P\left(\frac{R}{P}\right) \\ 
+						&=C_{v}+R 
+					\end{aligned}
+			}	}$$
+			
+			따라서 정압 비열과 정적 비열사이의 관계는 $C_{p} = C_{v} + R$로 정리할 수 있다.
+		\end{minipage}
+	\end{tabular}
+\end{frame}
+
+
+
+
+\begin{frame}[t]{열역학 제1법칙}
+	\begin{tabular}{l|l}
+		\begin{minipage}[t]{.475\textwidth} \scriptsize 
+			열역학 제 1법칙을 이용하여 ${\Delta q=c_{v} \Delta T+p \Delta \nu}$을 설명하면\\
+			어떤 공기덩이에 열량 $\Delta Q$를 가하면 이중 일부는 $\Delta W$ 만큼의 일을 하는데 사용되고, 나머지는 $\Delta U$ 만큼의 내부에너지를 변화시키는데 사용된다.\\
+				$$\Delta Q=\Delta U+\Delta W$$
+				각 항을 공기덩이의 질량으로 나누어 단위 질량에 대해 다음과 같이 소문자로 나타내면 \\
+				$$\Delta q=\Delta u+\Delta w$$
+				이상기체라고 가정하면 \\
+				$$\Delta u=c_{v} \Delta T$$
+				여기에서 $c_{v}$는 정적비열이고, $\Delta T$는 온도 변화량이다.
+		\end{minipage}
+		&
+		\begin{minipage}[t]{.475\textwidth}	\scriptsize 
+			일의 물리학적 정의는 
+			$${\Delta W=F \Delta S}$$
+			반지름 $R$ 인 공 모양의 공기덩이의 압력을 $p$, 그 표면적을 $A$라 하면 
+			$${\Delta W = p A \Delta R = p \Delta V}$$
+			단위 질량의 공기덩이인 비부피에 대해 다음과 같이 쓸 수 있다. 
+			$${\Delta w = p \Delta \nu}$$
+			이를 대입하면 ${\Delta q=c_{v} \Delta T+p \Delta \nu}$ 이다.
+			
+		\end{minipage}
+	\end{tabular}
+\end{frame}
+
+
+
+
+
+\begin{frame}[t]{열역학 제1법칙}
+	\begin{tabular}{l|l}
+		\begin{minipage}[t]{0.475\textwidth} \scriptsize
+			${\Delta q=c_{v} \Delta T+p \Delta \nu}$을 ${\Delta q = c_{p} \Delta T - \nu  \Delta p}$로 표현하자면 \\
+			공기덩이의 압력이 $p \rightarrow p+\Delta p$, 비부피가 $\nu \rightarrow \nu +\Delta \nu $, 온도가 $T \rightarrow T +\Delta T$로 변화했다면 나중 상태의 상태방정식은 \\
+				$${\displaystyle {
+						(p+\Delta p)(\nu+\Delta \nu)=R (T+\Delta T)
+				} }$$
+				$${\displaystyle {
+						\\
+						p \nu\left(1+\frac{\Delta p}{p}+\frac{\Delta \nu}{\nu}+\frac{\Delta p \Delta \nu}{p \nu}\right)=R T\left(1+\frac{\Delta T}{T}\right)
+				} }$$
+				
+				$p \nu =R T$를 사용하고, $\frac{\Delta p}{p}$, $\frac{\Delta \nu}{\nu}$가 $1$보다 훨씬 작은 양으로 취급하여 $\frac{\Delta p \Delta \nu}{p \nu}$	항을 무시하면\\
+				$${\displaystyle {
+						\frac{\Delta T}{T}=\frac{\Delta p}{p}+\frac{\Delta \nu}{\nu}
+				}		}$$	
+		\end{minipage}	
+		&
+		\begin{minipage}[t]{0.475\textwidth} \scriptsize
+			우변에 $RT$를 곱하고, 좌변에 ${p \nu}$를 곱하면\\
+			$${\displaystyle {
+				\begin{aligned}
+					R \Delta T&= \nu \Delta p+p \Delta \nu \\
+					p \Delta \nu &= R \Delta T - \nu \Delta p \\
+					\Delta q&=c_{v} \Delta T+p \Delta \nu \\
+					&= (c_{v}+R) \Delta T - \nu \Delta p
+				\end{aligned}
+			} 	}$$
+		$c_p = c_v+R$ 이므로	\\
+		$${\Delta q = c_{p} \Delta T - \nu  \Delta p}$$
+		\end{minipage}
+	\end{tabular}
+\end{frame}
+
+
+
+
+
+\begin{frame}[t]{건조단열감률}
+	\begin{tabular}{l|l}
+		\begin{minipage}[t]{0.475\textwidth} \scriptsize
+			열역학 제1법칙 $\Delta q = c_{p} \Delta T - \nu  \Delta p$을 미분형으로 쓰면 
+				$$	{\displaystyle	{
+					d q = c_{p} d T - \nu  d p
+				}	}	$$
+			단열 변화에서는 $d q = 0$이고, 대기의 정역학적 평형 $dp = - \rho g dz$을 고려하면
+				$${\displaystyle	{
+					\begin{aligned}
+						0 &= c_{p} d T - \nu  d p \\
+						0 &= c_{p} d T + g  d z
+					\end{aligned}
+				}	}	$$		
+			식을 정리하면
+				$${\displaystyle	{
+					- \frac {dT}{dz} = \frac{g}{c_p} = {\Gamma}_{d}
+				}	}$$	
+		\end{minipage}	
+		&
+		\begin{minipage}[t]{0.475\textwidth} \scriptsize
+			
+			
+		\end{minipage}
+	\end{tabular}
+\end{frame}
+
+
+
+\begin{frame}[t]{습윤단열감률}
+	\begin{tabular}{l|l}
+		\begin{minipage}[t]{0.475\textwidth} \scriptsize
+			포화 공기는 수증기 응결로 인해 잠열이 방출되므로  $d q \neq 0$ 이다.\\
+			포화혼합비를 $W_s$라고 하고, 응결 숨은열을 $L$이라고 하면 
+			응결에 의해 단위 질량의 건조 공기가 흡수하는 열량은 $-Ldw_s$이다.
+				$${\displaystyle	{
+					-Ldw_s = c_{p} d T + gdz
+				}	}$$
+			양변을 $c_{p} d z$로 나누고 항을 정리하면
+			$$	{\displaystyle	{
+				\begin{aligned}
+					\frac{d T}{d z}&=-\frac{L}{c_{p}} \frac{d w_{s}}{d z}-\frac{g}{c_{p}}\\
+					\frac{d T}{d z}&=-\frac{L}{c_{p}} \frac{d w_{s}}{d T} \frac{d T}{d z}-\frac{g}{c_{p}}\\
+					\frac{d T}{d z} + \frac{L}{c_{p}} \frac{d w_{s}}{d T} \frac{d T}{d z} &=-\frac{g}{c_{p}}\\
+				\end{aligned}
+				}	}$$
+		\end{minipage}	
+		&
+		\begin{minipage}[t]{0.475\textwidth} \scriptsize
+			$$	{\displaystyle	{
+				\begin{aligned}
+					\frac{d T}{d z} \left( 1 + \frac{L}{c_{p}} \frac{d w_{s}}{d T} \right)
+					=- {\Gamma}_{d}\\
+					- \frac{d T}{d z} 
+					= \frac{{\Gamma}_{d}}{ 1 + \dfrac{L}{c_{p}} \dfrac{d w_{s}}{d T} } = {\Gamma}_{s}\\
+				\end{aligned}
+			}	}$$
+			$\dfrac{d w_{s}}{d T}$가 항상 양의 값을 가지므로 ${\Gamma}_s < {\Gamma}_d$ 임을 알 수 있다.\\
+			$\dfrac{d w_{s}}{d T}$의 값이 큰 온난 다습한 공기는 습윤단열감률이 작고, 대류권계면 부근에서는 습윤단열감률이 건조단열감률과 비슷하다.
+
+			
+		\end{minipage}
+	\end{tabular}
+\end{frame}
+
+
+
+
+
+
+
+
 \section{공기 덩이를 상승시키는 과정}
 
 
@@ -617,17 +904,18 @@
 			\begin{figure}{}
 				\includegraphics[trim=50 440 300 50, clip, page=138, width=0.85\textwidth]{\bookfile} 
 			\end{figure}
+			\begin{itemize} \scriptsize 
+				\item 			수평적 공기 흐름에 의해 쌓인 공기가 상승
+			\end{itemize}
 		\end{minipage}
 		&
 		\begin{minipage}[t]{.5\textwidth}	
 			\begin{figure}{}
-				\includegraphics[trim=350 440 50 50, clip, page=138, width=0.75\textwidth]{\bookfile} 
+				\includegraphics[trim=350 440 50 50, clip, page=138, width=0.7\textwidth]{\bookfile} 
 			\end{figure}
 		\end{minipage}
 	\end{tabular}
-		\begin{itemize} \scriptsize 
-			\item 			수평적 공기 흐름에 의해 쌓인 공기가 상승
-		\end{itemize}
+	
 	\questionset{수렴이 공기를 상승시키는 과정을 설명하시오.}
 	\solutionset{지표면 근처의 바람이 일정 영역에서 빠져 나가는 것보다 더 많이 들어오게 되면, 이를 수렴이라 하며 이 때 상승이 발생한다. }
 
@@ -708,7 +996,7 @@
 
 
 \begin{frame}[t]{절대 불안정}
-		$\text{환경기온감률} > \text{습윤단열감률}$
+		$\text{환경기온감률} > \text{건조단열감률}$
 	\begin{tabular}{ll}
 		\begin{minipage}[t]{.7\textwidth}
 			\begin{figure}{}
@@ -725,7 +1013,7 @@
 
 
 \begin{frame}[t]{조건부 불안정}
-	$\text{습윤단열감률} < \text{환경기온감률} < \text{습윤단열감률}$
+	$\text{습윤단열감률} < \text{환경기온감률} < \text{건조단열감률}$
 	\begin{tabular}{ll}
 		\begin{minipage}[t]{.65\textwidth}
 			\begin{figure}{}
@@ -918,295 +1206,4 @@
 	\end{tabular}
 \end{frame}
 
-
-
-
-\section{추가 내용}
-
-
-
-\begin{frame}[t]{이상기체 상태방정식}
-	\begin{tabular}{l|l}
-		\begin{minipage}[t]{0.475\textwidth} \scriptsize 
-			온도 $T$와 압력 $p$ 에서 이상기체의 단위질량 당 부피인 비부피를 $\nu$라 하자.
-				그러면 보일의 법칙, 샤를의 법칙, 보일-샤를의 법칙을 다음과 같이 나타낼 수 있다.
-				$$	{\displaystyle	{
-						p \nu(T,~p)=p_{0} \nu\left(T, p_{0}\right),
-						\quad 
-						\frac{\nu \left(T, p_{0}\right)}{T}=\frac{\nu \left(T_{0}, p_{0}\right)}{T_{0}}
-				}	}$$
-				$${\displaystyle	{
-						p \nu(T, ~p)=\frac{p_{0} \nu \left(T_{0}, ~p_{0}\right)}{T_{0}} T
-				}	}$$
-				비기체상수(specific gas constant) $R$을 이용하여 다음과 같이 쓸 수 있다.\\
-				$${\displaystyle	{
-						p \nu = R T
-				}	}$$
-				질량이 분자량 $M$과 같은 기체의 시료가 있다면 부피는 $V = M\nu$ 이다.\\
-				$${\displaystyle	{
-						pV= MR T 
-				}	}$$	
-		\end{minipage}
-		&
-		\begin{minipage}[t]{0.475\textwidth} \scriptsize 
-			경험 법칙인 아보가드로의 법칙은 동일한 압력과 온도에서 같은 부피 안에 같은 수의 분자수를 지니므로 $\bar R = MR$의 양은 모든 기체에서 상수가 되며 이를 보편기체상수라 한다.
-			$$ M R = \frac{pV}{T}, \quad p\nu= \frac{\bar {R}}{M} T $$
-			$$ \bar R = MR = 8.3144 \left(\rm J mol^{-1} K^{-1}\right) $$
-			
-			비기체상수(specific gas constant)는 보편기체상수를 기체의 분자량으로 나누어 구할 수있다. \\
-			$$R = \frac{\bar{R}}{M}$$
-			이상 기체 상태방정식은 아래와 같이 쓸 수도 있다.\\
-			$$p  =  \rho R T$$
-			
-		\end{minipage}
-	\end{tabular}
-\end{frame}
-
-
-
-
-\begin{frame}[t]{공기의 평균 분자량}
-	\begin{tabular}{l|l}
-		\begin{minipage}[t]{0.475\textwidth} \scriptsize 
-			공기의 부피를 $V$, $n$ 번째 기체의 질량을 $m_n$ , 분자량을 $M_n$ 이라고 하자
-				$$	{\displaystyle	{
-						p_{n}=\frac{\bar{R}}{M_{n}} \frac{m_{n}}{V} T
-				} 	}	$$
-				달톤의 법칙을 적용하면 \\
-				$$	{\displaystyle	{
-					\begin{aligned}
-						p&=\sum p_{n}=\frac{\bar{R} T}{V} \sum \frac{m_{n}}{M_{n}}\\
-						p \nu &=\bar{R} T \frac{\sum \frac{m_{n}}{M_{n}}}{\sum m_{n}}\\
-						p \nu&=\frac{\bar{R}}{\bar{M}} T
-					\end{aligned}
-				}	}	$$
-
-				량은 다음과 같이 정의된다. \\
-				$$	{\displaystyle	{
-						\frac{1}{\bar{M}} \equiv \frac{\sum \frac{m_{n}}{M_{n}}}{\sum m_{n}}
-				}	}	$$
-			
-		\end{minipage}
-		&
-		\begin{minipage}[t]{0.475\textwidth} \scriptsize 
-			
-			혼합 기체인 공기의 평균 분자량은 질량 가중값을 사용하는 조화 평균으로 구할 수 있다.\\
-
-			계산된 건조 공기의 평균 분자량은 $28.966 \times 10^{-3} \rm{~kg~{mol}^{-1}}$ 이다. \\
-			건조 공기의 비기체상수는
-			$${\displaystyle	{
-					R = \frac{\bar{R}}{\bar{M}}=2.8704 \times 10^{2} \rm{~J~{kg}^{-1}~{K}^{-1}}
-			}	}$$
-			
-		\end{minipage}
-	\end{tabular}
-\end{frame}
-
-
-
-
-\begin{frame}[t]{정적 비열과 정압 비열}
-	\begin{tabular}{l|l}
-		\begin{minipage}[t]{0.475\textwidth} \scriptsize
-			비열은 어떤 물질 $1 \rm{g}$의 온도를 $1 \rm{{^\circ}C}$ 올리는데 필요한 열량이다. \\
-			정적비열 ($C_v$): 부피를 일정하게 유지하면서 가열했을 때 물질이 나타내는 비열 \\
-			정압비열 ($C_p$): 압력을 일정하게 유지하면서 가열했을 때 물질이 나타내는 비열 \\
-			내부에너지 $U$는 사실상 온도와 부피의 함수이며 압력과는 무관하다. \\
-			따라서 $U \left(T, V\right)$로 나타낸다. \\
-			엔탈피는 온도와 압력에 관한 함수로 $H \left(T, P\right)$로 나타낼 수 있는데, 정의는 $H =  U + PV$ 이다.\\
-			정적 비열과 정압 비열을 각각 내부에너지와 엔탈피를 이용하여 표현하면 다음과 같다. \\
-			$${\displaystyle	{
-					C_{v}=\left(\frac{\partial U}{\partial T}\right)_{v}
-					\quad	C_{p}=\left(\frac{\partial H}{\partial T}\right)_{p}
-			}	}$$
-		\end{minipage}	
-		&
-		\begin{minipage}[t]{0.475\textwidth} \scriptsize
-			$${\displaystyle		{
-					\begin{aligned} 
-						C_{p} &=\left(\frac{\partial H}{\partial T}\right)_{p} =\left(\frac{\partial(U+P V)}{\partial T}\right)_{p} \\ &=\left(\frac{\partial U}{\partial T}\right)_{p}+P\left(\frac{\partial V}{\partial T}\right)_{p} \\ 
-						&=C_{v}+P\left(\frac{\partial\left(\frac{R T}{P}\right)}{\partial T}\right)_{p} =C_{v}+P\left(\frac{R}{P}\right) \\ 
-						&=C_{v}+R 
-					\end{aligned}
-			}	}$$
-			
-			따라서 정압 비열과 정적 비열사이의 관계는 $C_{p} = C_{v} + R$로 정리할 수 있다.
-		\end{minipage}
-	\end{tabular}
-\end{frame}
-
-
-
-
-\begin{frame}[t]{열역학 제1법칙}
-	\begin{tabular}{l|l}
-		\begin{minipage}[t]{.475\textwidth} \scriptsize 
-			열역학 제 1법칙을 이용하여 ${\Delta q=c_{v} \Delta T+p \Delta \nu}$을 설명하면\\
-			어떤 공기덩이에 열량 $\Delta Q$를 가하면 이중 일부는 $\Delta W$ 만큼의 일을 하는데 사용되고, 나머지는 $\Delta U$ 만큼의 내부에너지를 변화시키는데 사용된다.\\
-				$$\Delta Q=\Delta U+\Delta W$$
-				각 항을 공기덩이의 질량으로 나누어 단위 질량에 대해 다음과 같이 소문자로 나타내면 \\
-				$$\Delta q=\Delta u+\Delta w$$
-				이상기체라고 가정하면 \\
-				$$\Delta u=c_{v} \Delta T$$
-				여기에서 $c_{v}$는 정적비열이고, $\Delta T$는 온도 변화량이다.
-		\end{minipage}
-		&
-		\begin{minipage}[t]{.475\textwidth}	\scriptsize 
-			일의 물리학적 정의는 
-			$${\Delta W=F \Delta S}$$
-			반지름 $R$ 인 공 모양의 공기덩이의 압력을 $p$, 그 표면적을 $A$라 하면 
-			$${\Delta W = p A \Delta R = p \Delta V}$$
-			단위 질량의 공기덩이인 비부피에 대해 다음과 같이 쓸 수 있다. 
-			$${\Delta w = p \Delta \nu}$$
-			이를 대입하면 ${\Delta q=c_{v} \Delta T+p \Delta \nu}$ 이다.
-			
-		\end{minipage}
-	\end{tabular}
-\end{frame}
-
-
-
-
-
-
-
-\begin{frame}[t]{열역학 제1법칙}
-	\begin{tabular}{l|l}
-		\begin{minipage}[t]{0.475\textwidth} \scriptsize
-			${\Delta q=c_{v} \Delta T+p \Delta \nu}$을 ${\Delta q = c_{p} \Delta T - \nu  \Delta p}$로 표현하자면 \\
-			공기덩이의 압력이 $p \rightarrow p+\Delta p$, 비부피가 $\nu \rightarrow \nu +\Delta \nu $, 온도가 $T \rightarrow T +\Delta T$로 변화했다면 나중 상태의 상태방정식은 \\
-				$${\displaystyle {
-						(p+\Delta p)(\nu+\Delta \nu)=R (T+\Delta T)
-				} }$$
-				$${\displaystyle {
-						\\
-						p \nu\left(1+\frac{\Delta p}{p}+\frac{\Delta \nu}{\nu}+\frac{\Delta p \Delta \nu}{p \nu}\right)=R T\left(1+\frac{\Delta T}{T}\right)
-				} }$$
-				
-				$p \nu =R T$를 사용하고, $\frac{\Delta p}{p}$, $\frac{\Delta \nu}{\nu}$가 $1$보다 훨씬 작은 양으로 취급하여 $\frac{\Delta p \Delta \nu}{p \nu}$	항을 무시하면\\
-				$${\displaystyle {
-						\frac{\Delta T}{T}=\frac{\Delta p}{p}+\frac{\Delta \nu}{\nu}
-				}		}$$	
-		\end{minipage}	
-		&
-		\begin{minipage}[t]{0.475\textwidth} \scriptsize
-			우변에 $RT$를 곱하고, 좌변에 ${p \nu}$를 곱하면\\
-			$${\displaystyle {
-				\begin{aligned}
-					R \Delta T&= \nu \Delta p+p \Delta \nu \\
-					p \Delta \nu &= R \Delta T - \nu \Delta p \\
-					\Delta q&=c_{v} \Delta T+p \Delta \nu \\
-					&= (c_{v}+R) \Delta T - \nu \Delta p
-				\end{aligned}
-			} 	}$$
-		$c_p = c_v+R$ 이므로	\\
-		$${\Delta q = c_{p} \Delta T - \nu  \Delta p}$$
-		\end{minipage}
-	\end{tabular}
-\end{frame}
-
-
-
-
-
-
-\begin{frame}[t]{건조단열감률}
-	\begin{tabular}{l|l}
-		\begin{minipage}[t]{0.475\textwidth} \scriptsize
-			열역학 제1법칙 $\Delta q = c_{p} \Delta T - \nu  \Delta p$을 미분형으로 쓰면 
-				$$	{\displaystyle	{
-					d q = c_{p} d T - \nu  d p
-				}	}	$$
-			단열 변화에서는 $d q = 0$이고, 대기의 정역학적 평형 $dp = - \rho g dz$을 고려하면
-				$${\displaystyle	{
-					\begin{aligned}
-						0 &= c_{p} d T - \nu  d p \\
-						0 &= c_{p} d T + g  d z
-					\end{aligned}
-				}	}	$$		
-			식을 정리하면
-				$${\displaystyle	{
-					- \frac {dT}{dz} = \frac{g}{c_p} = {\Gamma}_{d}
-				}	}$$	
-		\end{minipage}	
-		&
-		\begin{minipage}[t]{0.475\textwidth} \scriptsize
-			
-			
-		\end{minipage}
-	\end{tabular}
-\end{frame}
-
-
-
-\begin{frame}[t]{습윤단열감률}
-	\begin{tabular}{l|l}
-		\begin{minipage}[t]{0.475\textwidth} \scriptsize
-			포화 공기는 수증기 응결로 인해 잠열이 방출되므로  $d q \neq 0$ 이다.\\
-			포화혼합비를 $W_s$라고 하고, 응결 숨은열을 $L$이라고 하면 
-			응결에 의해 단위 질량의 건조 공기가 흡수하는 열량은 $-Ldw_s$이다.
-				$${\displaystyle	{
-					-Ldw_s = c_{p} d T + gdz
-				}	}$$
-			양변을 $c_{p} d z$로 나누고 항을 정리하면
-			$$	{\displaystyle	{
-				\begin{aligned}
-					\frac{d T}{d z}&=-\frac{L}{c_{p}} \frac{d w_{s}}{d z}-\frac{g}{c_{p}}\\
-					\frac{d T}{d z}&=-\frac{L}{c_{p}} \frac{d w_{s}}{d T} \frac{d T}{d z}-\frac{g}{c_{p}}\\
-					\frac{d T}{d z} + \frac{L}{c_{p}} \frac{d w_{s}}{d T} \frac{d T}{d z} &=-\frac{g}{c_{p}}\\
-				\end{aligned}
-				}	}$$
-		\end{minipage}	
-		&
-		\begin{minipage}[t]{0.475\textwidth} \scriptsize
-			$$	{\displaystyle	{
-				\begin{aligned}
-					\frac{d T}{d z} \left( 1 + \frac{L}{c_{p}} \frac{d w_{s}}{d T} \right)
-					=- {\Gamma}_{d}\\
-					- \frac{d T}{d z} 
-					= \frac{{\Gamma}_{d}}{ 1 + \dfrac{L}{c_{p}} \dfrac{d w_{s}}{d T} } = {\Gamma}_{s}\\
-				\end{aligned}
-			}	}$$
-			$\dfrac{d w_{s}}{d T}$가 항상 양의 값을 가지므로 ${\Gamma}_s < {\Gamma}_d$ 임을 알 수 있다.\\
-			$\dfrac{d w_{s}}{d T}$의 값이 큰 온난 다습한 공기는 습윤단열감률이 작고, 대류권계면 부근에서는 습윤단열감률이 건조단열감률과 비슷하다.
-
-			
-		\end{minipage}
-	\end{tabular}
-\end{frame}
-
-
-
-\begin{frame}[t]{온위}
-	\begin{tabular}{l|l}
-		\begin{minipage}[t]{0.55\textwidth} \scriptsize
-			온위(potential temperature)는 특정 기압과 온도로 주어진 건조공기가 단열적으로 이동하여 표준기압(보통 $1000 \rm{~hPa}$)에 도달했을 때 온도를 말한다.\\
-			단열과정에 대한 열역학 1법칙은 \\
-				$$	{\displaystyle	{
-					0 = c_{p} d T - \nu  d p
-				}	}$$
-			
-			상태방정식 $p \nu = RT$을 대입하고 양변을 $c_{p} T$ 로 나누면\\
-				$$	{\displaystyle	{
-					0 = \frac{dT}{T} - \frac{R}{c_p} \frac{dp}{p}
-				}	} $$
-		
-			위 식을 초기 상태로 부터 나중 상태까지 적분할때 초기 기압이 $1000 \rm{~hPa}$, 초기 기온이 $\theta$인 경우 다음과 같이 나타낼 수 있다. 
-				$${\displaystyle	{
-					\frac{T}{\theta}=\left(\frac{p}{1000}\right)^{\kappa}
-				}	}$$
-			여기에서 $\kappa = \frac{R}{c_p} $ 이다. 
-		\end{minipage}	
-		&
-		\begin{minipage}[t]{0.4\textwidth} \scriptsize
-			\questionset{온위의 정의로부터 건조 대기의 안정도를 판별하시오.}
-			\solutionset{
-				\begin{figure}{}
-					\includegraphics[width=0.8\textwidth]{./images/PT.png} 
-				\end{figure}
-				$ a: \frac{d\theta}{dz} > 0$ 안정, $ b: \frac{d\theta}{dz} = 0$ 중립, $ c: \frac{d\theta}{dz} < 0$ 불안정
-			}
-		\end{minipage}
-	\end{tabular}
-\end{frame}
 

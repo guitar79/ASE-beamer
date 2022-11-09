@@ -1,5 +1,5 @@
 \beamer@sectionintoc {1}{대기오염의 위협}{2}{0}{1}
 \beamer@sectionintoc {2}{대기오염의 근원과 형태}{9}{0}{2}
-\beamer@sectionintoc {3}{대기질의 경향}{42}{0}{3}
-\beamer@sectionintoc {4}{대기오염에 영향을 주는 기상학적 요소}{48}{0}{4}
-\beamer@sectionintoc {5}{산성비}{56}{0}{5}
+\beamer@sectionintoc {3}{대기질의 경향}{43}{0}{3}
+\beamer@sectionintoc {4}{대기 오염에 영향을 주는 기상학적 요소}{52}{0}{4}
+\beamer@sectionintoc {5}{산성비}{61}{0}{5}
