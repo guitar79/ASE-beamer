@@ -11,6 +11,7 @@
 \usepackage{listings}
 \usepackage[margin=10pt,font=small,labelfont=bf]{caption}
 \usepackage{subcaption}
+\usepackage{bookmark}
 \usepackage{multirow}
 
 \usepackage{hyperref}
