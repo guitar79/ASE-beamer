@@ -1,6 +1,4 @@
-\beamer@sectionintoc {1}{지구와 태양의 관계}{3}{0}{1}
-\beamer@sectionintoc {2}{에너지 온도 그리고 열}{30}{0}{2}
-\beamer@sectionintoc {3}{열 전달의 기구}{34}{0}{3}
-\beamer@sectionintoc {4}{입사 태양 복사는 어떻게 되는가}{47}{0}{4}
-\beamer@sectionintoc {5}{대기 중 기체의 역할}{60}{0}{5}
-\beamer@sectionintoc {6}{지구의 에너지 수지}{75}{0}{6}
+\beamer@sectionintoc {1}{빛과 매질의 상호작용}{2}{0}{1}
+\beamer@sectionintoc {2}{신기루}{15}{0}{2}
+\beamer@sectionintoc {3}{무지개}{26}{0}{3}
+\beamer@sectionintoc {4}{무리, 무리해, 해기둥}{37}{0}{4}
