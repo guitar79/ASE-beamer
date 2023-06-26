@@ -1,4 +1,0 @@
-\beamer@sectionintoc {1}{빛과 매질의 상호작용}{2}{0}{1}
-\beamer@sectionintoc {2}{신기루}{15}{0}{2}
-\beamer@sectionintoc {3}{무지개}{26}{0}{3}
-\beamer@sectionintoc {4}{무리, 무리해, 해기둥}{37}{0}{4}

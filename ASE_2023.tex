@@ -1,0 +1,112 @@
+\documentclass[12pt]{gshs_beamer_class}
+% beamer ver2.0의 수정 사항
+% 1. 기존 붉은색 이외에 녹색과 푸른색의 beamer도 제작 가능함 (색 변조한 학교 아이콘 ./logo 폴더에 탑재)
+% 2. 수식 및 소스 코드 폰트 변경 부분 추가
+% 3. 타이틀 페이지의 학교 아이콘을 벡터 이미지로 수정 및 크기 조정
+
+%%%%%%%%%% *** Packages %%%%%%%%%%
+%%%% 1) Following packages are included in the *.cls file:
+%\usepackage{ifthen}
+%\usepackage{xcolor}
+%\usepackage{amssymb,amsmath,graphicx}
+%\usepackage{etoolbox}
+%\usepackage[hangul]{kotex}
+%\usepackage{tikz}
+%\usepackage{listings}
+
+%%%% 2) Additional packages
+\usepackage{framed}
+\usepackage{array}
+\usepackage{siunitx}
+\usepackage{lipsum}
+\usepackage{bookmark}
+
+
+%\newtheorem{Qe}[defn]{Theorem}
+
+%%%%%%%%%%%%%%%%%%%%%%%
+%%% Question layout %%%
+%%%%%%%%%%%%%%%%%%%%%%%
+%\newenvironment{Q}
+%{\color{red}\textbf{Q)}
+%	\color{blue}$\rm{CO_2}{@Q}
+%	\color{black}
+%} 
+
+%%%%%%%%%% *** Beamer Style Settings %%%%%%%%%%
+%%%% 1) Theme Color
+\themecolor{blue} %red, green, blue
+
+%%%% 2) Equations Font Setter
+% rm: classical LaTeX math font
+% sf: cleaner font
+\equationfont{rm} %rm, sf
+
+%%%% 3) Listing (Source Code) Font Setter
+% If you want to use typewriter font in listing environments, please delete the command below.
+\usepackage{inconsolata}
+
+%%%% 4) ToC Auto Producer
+% ToC frame is added at the beginning of every section.
+% If you want a title at ToC frames, please write the frametitle after 'begin frame.'
+\AtBeginSection[]
+{
+	\begin{frame}{}
+		\tableofcontents[currentsection]
+	\end{frame}
+}
+
+
+%%%% 5) Line Strecth Setter
+\renewcommand{\baselinestretch}{1.1}
+
+
+%%%% 6) question and solution for student
+\newcommand{\questionset}{\footnotesize\color{red}\textbf{Q)}\color{blue}}
+\newcommand{\solutionset}{\newline\scriptsize\color{black!0}}
+
+%%% 학생용을 출력할 경우 아래 줄 맨 앞에 % 표시를 추가하시오.
+\renewcommand{\solutionset}{\pause\newline\scriptsize\color{black!70}}
+
+
+%%%%%%%%%% *** The Title %%%%%%%%%%
+\subtitle[]{대기과학 및 실험 (2022)}
+\author[]{박 기 현 (Kiehyun.Park@gmail.com)}
+\institute[]{과학영재학교 경기과학고등학교}
+\date[]{\today}
+
+%%\def\bookfile#1{\gdef\@bookfile{#1}}
+%%\bookfile{../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf}
+
+%%%% pdf 책 파일의 경로
+\newcommand{\bookfile}{../ref/The Atmosphere_an introduction to meteorology_Frederick K. Lutgens, Edward J. Tarbuck[13ed](2016).pdf}
+
+
+%%%%%%%%%% *** The Body %%%%%%%%%%
+\begin{document}\small
+
+	%\setbeamertemplate{sidebar left}[sidebar theme] %sidebar
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	%%%% Main Document 
+	%%%% 컴파일 하고자 하는 챕터 앞의 %를 지우세요.
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	
+	%\include{sub/chap-{\chapNo}}
+	%\include{sub/chap-01} 
+	%\include{sub/chap-02} 
+	%\include{sub/chap-03} 
+	%\include{sub/chap-04} 
+	%\include{sub/chap-05} 
+	%\include{sub/chap-06} 
+	%\include{sub/chap-07} 
+	%\include{sub/chap-08} 
+	%\include{sub/chap-09} 
+	%\include{sub/chap-10} 
+	%\include{sub/chap-11} 
+	%\include{sub/chap-12} 
+	%\include{sub/chap-13}
+	%\include{sub/chap-14} 
+	%\include{sub/chap-15} 
+	\include{sub/chap-16} 
+
+\end{document}
